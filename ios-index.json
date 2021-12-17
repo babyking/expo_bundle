@@ -1,1 +1,40 @@
-{"name":"demo2","slug":"demo2","version":"1.1.0","ios":{"bundleIdentifier":"io.github.babyking.rn.demo2"},"sdkVersion":"43.0.0","platforms":["ios","android","web"],"currentFullName":"@anonymous/demo2","originalFullName":"@anonymous/demo2","locales":{},"bundledAssets":[],"assetUrlOverride":"./assets","publishedTime":"2021-12-17T07:02:49.124Z","commitTime":"2021-12-17T07:02:49.124Z","releaseId":"e1c1b50e-034e-44d2-bd20-0baf12753aa6","revisionId":"8Dzzq529oJ","id":"@anonymous/demo2","platform":"ios","bundleUrl":"https://babyking.github.io/expo_bundle/ios-index.json/bundles/ios-1f0514a18c10c92dbc717986bbb7dcd3.js","dependencies":["expo","expo-splash-screen","expo-status-bar","expo-updates","react","react-dom","react-native","react-native-gesture-handler","react-native-reanimated","react-native-safe-area-context","react-native-screens","react-native-web"]}
+{
+    "assetUrlOverride": "./assets",
+    "bundleUrl": "http://babyking.github.io/expo_bundle/bundles/ios-1f0514a18c10c92dbc717986bbb7dcd3.js",
+    "bundledAssets": [],
+    "commitTime": "2021-12-17T07:02:49.124Z",
+    "currentFullName": "@anonymous/demo2",
+    "dependencies": [
+        "expo",
+        "expo-splash-screen",
+        "expo-status-bar",
+        "expo-updates",
+        "react",
+        "react-dom",
+        "react-native",
+        "react-native-gesture-handler",
+        "react-native-reanimated",
+        "react-native-safe-area-context",
+        "react-native-screens",
+        "react-native-web"
+    ],
+    "id": "@anonymous/demo2",
+    "ios": {
+        "bundleIdentifier": "io.github.babyking.rn.demo2"
+    },
+    "locales": {},
+    "name": "demo2",
+    "originalFullName": "@anonymous/demo2",
+    "platform": "ios",
+    "platforms": [
+        "ios",
+        "android",
+        "web"
+    ],
+    "publishedTime": "2021-12-17T07:02:49.124Z",
+    "releaseId": "e1c1b50e-034e-44d2-bd20-0baf12753aa6",
+    "revisionId": "8Dzzq529oJ",
+    "sdkVersion": "43.0.0",
+    "slug": "demo2",
+    "version": "1.1.0"
+}
